@@ -1,0 +1,2 @@
+Simplement mettre les fichiers dans le répertoire du projet Kicad, 
+fermer Kicad et lancer le .kicad_pcb. Cela lancera automatiquement le script
